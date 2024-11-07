@@ -1,0 +1,1 @@
+{"path":{"input":"./Dataset/program","output":"./Predict/predict.json","config":"./config.json"},"folder":{"dataset":"./Dataset/","feature":"./Feature/","vectorize":"./Vectorize/","model":"./Model/","predict":"./Predict/"},"model":{},"classify":false}
